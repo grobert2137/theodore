@@ -1,2 +1,2 @@
 # THEODORE
-THE Object Dectection Oriented Robotic Explorer
+THE Object Dectecting Oriented Robotic Explorer
