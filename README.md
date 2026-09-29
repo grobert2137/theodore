@@ -7,6 +7,9 @@ The following ROS and Ubunutu versions were chosen based on compatibility with b
 - Ubuntu  (24.04)
 - ROS2 Jazzy
 
+## Dependancies
+- 
+
 ## Default Scripts (Updated Sept 29 2026)
 #### Dockerfile
 ```
