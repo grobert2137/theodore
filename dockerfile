@@ -1,3 +1,6 @@
+## DEVELOPED BY GRANT DAHL 
+## SEPT 29 2026
+
 FROM ros:jazzy-ros-base
 
 RUN apt-get update && apt-get install -y \
